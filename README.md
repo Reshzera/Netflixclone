@@ -1,8 +1,8 @@
 # Netflixclone
 This project is an interface clone of Netflix´s homepage made with React.js, HTML and CSS. To open this project you should follow the steps below:
 <div align="center">
-  <img height="240px" src="https://github.com/Reshzera/Netflixclone/blob/main/cloneflix.png?raw=true"/>
-  <img height="240px" src="https://raw.githubusercontent.com/Reshzera/Netflixclone/main/cloneflix2.png"/>
+  <img height="200px" src="https://github.com/Reshzera/Netflixclone/blob/main/cloneflix.png?raw=true"/>
+  <img height="200px" src="https://raw.githubusercontent.com/Reshzera/Netflixclone/main/cloneflix2.png"/>
 </div>
 
 # Getting Started with Create React App
