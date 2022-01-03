@@ -1,0 +1,40 @@
+header{
+    position: absolute;
+    z-index: 998;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 30px;
+    background: transparent;
+    transition: ease 0.5s;
+} 
+.logo{
+    height: 30px;
+}
+.logo img, .perfil img{
+    height: 100%;
+}
+.perfil{
+    height: 50px;
+}
+.perfil img{
+    border-radius: 5px;
+}
+header.black{
+    position: fixed;
+    background-color: #141414;
+    animation: slidedown 0.8s;
+    transition: all ease 0.5s;
+}
+@keyframes slidedown {
+    from{
+        transform: translateY(-300%);
+    }
+    to {
+        transform: translateY(0%);
+    }
+}
